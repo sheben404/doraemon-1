@@ -86,8 +86,8 @@ div.blackEye{
 
 @-webkit-keyframes cate{
   0%{margin:0 0 0 0;}
-  80%\t{margin:0px 0 0 0;}
-  85%\t{margin:-20px 0 0 0;}
+  80%{margin:0px 0 0 0;}
+  85%{margin:-20px 0 0 0;}
   90%{margin:0 0 0 0;}
   93%{margin:0 0 0 7px;}
   96%{margin:0 0 0 0;}
